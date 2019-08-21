@@ -7,6 +7,8 @@ public class App {
         System.out.println("making commits");
         System.out.println("i am not bored with the training");
 
+
         System.out.println("added from master");
+        System.out.println("added from new_branch");
     }
 }
