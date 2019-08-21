@@ -5,5 +5,6 @@ public class App {
         System.out.println("Hello World");
         System.out.println("we are learning GIT");
         System.out.println("making commits");
+        System.out.println("i am not bored with the training");
     }
 }
